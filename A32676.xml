@@ -1,0 +1,253 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Treatie of marine, between the Illustrious and Most Mightie King Charles the Second ... and the High &amp; Mightie Lords, the States Generall of the Vnited Netherlands to be observed in all the severall partes throughout the whole vvorlde, by land, and by sea : concluded in London, the first of December 1674.</title>
+            <title>Treaties, etc. United Provinces of the Netherlands, 1674 Dec. 1</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32676</idno>
+            <idno type="STC">Wing C3621</idno>
+            <idno type="STC">ESTC R2379</idno>
+            <idno type="EEBO-CITATION">12266102</idno>
+            <idno type="OCLC">ocm 12266102</idno>
+            <idno type="VID">58080</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32676)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58080)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 176:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Treatie of marine, between the Illustrious and Most Mightie King Charles the Second ... and the High &amp; Mightie Lords, the States Generall of the Vnited Netherlands to be observed in all the severall partes throughout the whole vvorlde, by land, and by sea : concluded in London, the first of December 1674.</title>
+                  <title>Treaties, etc. United Provinces of the Netherlands, 1674 Dec. 1</title>
+                  <author>England and Wales.</author>
+                  <author>United Provinces of the Netherlands. Treaties, etc. England and Wales, 1674 Dec. 1.</author>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>United Provinces of the Netherlands. Staten Generaal.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the assings [i.e. assigns] of Iohn Bill, and Christopher Barker ...,</publisher>
+                  <pubPlace>[London] In the Savoy :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Commercial treaties.</term>
+               <term>Netherlands --  Commercial treaties.</term>
+               <term>Great Britain --  Commerce --  Netherlands.</term>
+               <term>Netherlands --  Commerce --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:58080:1"/>
+            <pb facs="tcp:58080:1" rendition="simple:additions"/>
+            <p>Treatie of Marine, Between the Illuſtrous and Moſt Mightie KING CHARLES THE SECOND, By the Grace of GOD, King of Greate Brittain, France, and Ireland, Defendor of the Faith, &amp;c. AND THE High &amp; Mightie LORDS, the STATES GENERALL, of the VNITED NETHERLANDS. <hi>To be obſerved, in all the ſeverall partes throughout the whole VVorlde, by Land, and by Sea.</hi> Concluded in London, the firſt of December 1674.</p>
+            <p>In the Savoy, Printed by the Asſings of <hi>Iohn Bill,</hi> and <hi>Chriſtopher Barker,</hi> Printers to the Kings moſt Majeſty. 1675.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treaty">
+            <pb facs="tcp:58080:2"/>
+            <pb facs="tcp:58080:2"/>
+            <head>Treatie of Marine, Between the Illuſtrous and moſt Mightie KING CHARLES THE SECOND, By the Grace of GOD, King of Greate Britain, France, and Ireland, Defendor of the Faith, &amp;c. And the High &amp; Mightie LORDS, the STATES GENERALL, of the UNITED NETHERLANDS, <hi>To be obſerved, in all the ſeverall partes, throughout the whole Worlde, by Land, and by Sea,</hi> Concluded in London, the firſt of December 1674.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas by the Treatie Concluded at Weſtminſter, the 9/19 of Febr. 1674. between the Illuſtrous and moſt mightie King, Charles the ſecond, by the Grace of God, King of Greate Brittain, France, and Ireland, defendor of the faith &amp;c. And the High and Mightie States Generall, of the united Netherlands: it is agreed, by the Eigth, and Nineth Article, That ſix Com<g ref="char:EOLhyphen"/>miſsionors to be named on the parte of the ſaid. Illuſtrous King of Greate Brittaine, with the like number on the parte of the Lords the States Generall, to be ſent to London, A treatie shoules bemade, And whereas Thomas Lord Culpeper, Ge<g ref="char:EOLhyphen"/>orge Downing, Knight and Baronet, Richard Ford, William Thompſon Knights, Iohn Iollif, and Iohn Buck worth Eſqui<g ref="char:EOLhyphen"/>res, are to that End appointed, by the aforenamed Illuſtrous King of Greate Brittaine, As alſo that Iohn Corver, and Gi<g ref="char:EOLhyphen"/>les Sautin, Schepen, and Councell of the Cittie of Amſter<g ref="char:EOLhyphen"/>dam, Samuel Beyer, and Andrew van Voſſen, Councell, and Recorder, of the reſpective Citties of Rotterdam, and Enck<g ref="char:EOLhyphen"/>huyſen, Pieter Duyvelaer, late Burghemaſter of Middelburgh,
+<pb facs="tcp:58080:3"/>And Michel Michelſon, Schepen and Councell of the Cittie of Flushing, Commiſsionors ſent to London, on the parte of the Lords States Generall, have had Severall meetings, and deba<g ref="char:EOLhyphen"/>tes, touching that matter, have finally by vertue of their full powers (incerted at th' End of this treatie) in order to th' afore<g ref="char:EOLhyphen"/>ſaid Articles unanimouſly Conſented, and agreed, on the fol<g ref="char:EOLhyphen"/>lowing Articles, of A Treatie, of Marine, to be obſerved in all the Severall partes of the Worlde, by Land, and by Sea,</p>
+            <div n="1" type="article">
+               <head>I.</head>
+               <p>All and Everie the ſubjects, of the moſt ſerene, and Mighty <hi>King</hi> of <hi>Great Brit<g ref="char:EOLhyphen"/>tain,</hi> beforenamed, shall with all ſafety, and Freedome, Sail, and Traffick, with All manner of Marchandiſes, in all Kingdomes, Countries, and Eſtates, wich are, or shalbe, in Peace, Amitie, or Newtrallitie, with the ſaid King, without being troubled, or diſquieted in that libertie, by any of the Ships of Warr, or other Veſſels, belonging unto the <hi>States Generall,</hi> or any of their ſubjects, under Co<g ref="char:EOLhyphen"/>lour of any Emnity, or difference, wich now, or hereafter, might happen, to ariſe, betweene the <hi>States Generall,</hi> and any Nation, which shal be in Peace and Newtralitie with the ſaid <hi>King:</hi> In like manner, all and Everie the ſubjects of the <hi>States Generall,</hi> shall with all Safety, and Freedome, Saile, and Traffick, with all Manner of Marchandiſes, in all the Kingdomes, Countries, and Eſtates, wich are, or shalbe, in Peace, Amitie, or Newtrallitie, with te ſaid <hi>States,</hi> whout being troubled, or diſquited, in that libertie, by any of the Ships of Warr, or other Veſſels, belonging to the ſaid <hi>King,</hi> or any of his ſubjects, under Colour of any Emnity, or difference, which now, or hereafter, might happen to ariſe, betweene the ſaid <hi>King,</hi> and any Nation, which shalbe in Peace, and Newtralli<g ref="char:EOLhyphen"/>tie, with the ſaid <hi>States.</hi>
+               </p>
+            </div>
+            <div n="2" type="article">
+               <head>II.</head>
+               <p>This Freedome of Navigation, and Traffick, shall extend, to all ſortes of Marchandiſes, which may be tranſported in times of Peace, and shall not be di<g ref="char:EOLhyphen"/>ſturbed under any pretence of warre, Savenig only ſuck goods, as are declared Contrabande, in the following Article.</p>
+            </div>
+            <div n="3" type="article">
+               <head>III.</head>
+               <p>Under the name of Contrabande, or wares forbidden, are only comprehended, Armes, Muskets or Barrels, and their appurtenances, Fireworkes, Gunpowder, Match, Ball, Swords, Lances, Pikes, Halbards, Canon, Mortar-peeſes, Pe<g ref="char:EOLhyphen"/>tards, Granadoes, Reſt, Bandeliers, Saltpeter, Muskets Bullets, Morions, Headpeeſes, Breſtplates, Quiraſſes, and ſuch like Armes, Souldiers, Horſes, and all Manner of vtenſils belonging to horſe, Holſters, Belts, and whatſoever elce may be needfull in War.</p>
+            </div>
+            <div n="4" type="article">
+               <head>IIII.</head>
+               <p>Amongſt the wares forbidden, or Contrabande, theſe following shall not be included, viz Cloth, and all Manufactures Made of Wool, Linnen, Cotton, or any other Stuffes, all Manner of clothes, or clothings, with the Stuffes whereof
+<pb facs="tcp:58080:3"/>they are made; Gould or Silver, Coined, or Uncoined, Tinn, Iron, Lead, Copper, Coales, Wheate, Barley, and all other Kinde of Corne, Tabacco, and all manner of Spice, Salted, and dried Flesh, or Fish, Cheeſe, or Butter Beere, Oile, Wine, Sugar, and al Kinde of Salte, as alſo all manner of things uſefull for the food of mankinde, furthermore, Hempe, Tarre, Pitch, all ſor<g ref="char:EOLhyphen"/>tes of Roapes, Sailes, Anckers, Maſts, Plancks for Schipping, Deales, and Balkes of all Sortes, and Generally, all things neceſſary for building, or repai<g ref="char:EOLhyphen"/>ring of shipps, Yea all manner of wares, and Merchandiſe, shalbe Accounted free, which are not Expreſſed, in the foregoing Article, and the tranſportation of them shalbe permitted, by any of the <hi>Kings</hi> ſubjects, Even unto places in Emnity with the <hi>States,</hi> as alſo in like manner, by any of the ſubjects of the <hi>States,</hi> unto places In Emnity with the <hi>King,</hi> Except ſuch Citties, and places, as are beſiedged, blocked up, or Inveſted.</p>
+            </div>
+            <div n="5" type="article">
+               <head>V</head>
+               <p>And to remove all manner of differences, or diſcontents, which might hap<g ref="char:EOLhyphen"/>pen, by Land, or Sea, it is agreed, that all Ships, belonging unto the ſubjects of the ſaid <hi>King,</hi> which shall enter Into any roade, or porte, belonging unto the <hi>States,</hi> and purpoſing te paſſ from thence, ſchalbe only obliged, to shew unto th' <hi>Officers</hi> off ſuch porte, or in caſe there be any Ships of warre, or other Ships having Commiſſion, unto the Chiefe <hi>Commandors</hi> thereof, their pasports, wit<g ref="char:EOLhyphen"/>hout paying, or giveing, ought unto them, But in Caſe they shall meete with any of the <hi>States</hi> Ships of warre, or others having Commiſſion, at Sea, without the Territories of the ſaid <hi>States,</hi> they shall keep at A reaſonable diſtance, and shall only with two or three men in their boate, go aboarde of ſuch Ship, or Veſſel, as shall belong unto any of the <hi>Kings</hi> ſubjects, to ſee the Paſports, Con<g ref="char:EOLhyphen"/>taing the Lading of ſuch Ship, wich being shewed, by the Captaine or Maſter of ſuch Veſſell, they may not be hindred, retarded, or forced, to alter his courſe, And the ſubjects of the States Generall, shall Enjoy the like freedome, Havinge shewed their Paſports, in manner, as aforeſaid, the Content wherof shalbe, as hereafter is Expreſſed.</p>
+            </div>
+            <div n="6" type="article">
+               <head>VI.</head>
+               <p>But if any Ship belonging unto the ſubjects of the ſaid <hi>King,</hi> shall ſaile to any porte, in Emnity with the <hi>States,</hi> or any Ship belonging unto any ſubject of the <hi>States,</hi> shall ſaile to any porte, In Emnity with the ſaid <hi>King,</hi> be met at ſea, ſuch Ship, shall not only shew his paſports, in forme as hereafter is Expreſſed, which he shalbe obliged to have, but alſo Certificates made by the Cuſtomer of that porte, from whence he shal ſet ſaile, Containing the Lading of ſuch Ship, to th' End it may be knowne, Whether he have any Marchandiſes in his Ship, which are forbidden by the third Article of this treatie.</p>
+            </div>
+            <div n="7" type="article">
+               <head>VII.</head>
+               <p>And in Caſe any goods or Marchandiſes, which are before declared to be contrabande, or forbidden, befound or diſcovered, by viewing of the ſaid Certificates, to be made by the Cuſtomer of that porte from whence ſuch Ship shall ſet ſaile, and be bound to any porte in Emnity with th' other partie, the Commander in chiefe of that Ship where ſuch goods are found, Whether hebe A ſubject of the ſaid <hi>King,</hi> or of the <hi>States,</hi> shall not breake open the ſaid Trun<g ref="char:EOLhyphen"/>kes, Caſes, Packs, or Fatts, Wherem ſuch goods are, but in preſence of
+<pb facs="tcp:58080:4"/>ſurveyors, appointed by the Iudges of Sea affaires, to be by them Inventoriſed, Yet none of them shal be ſould, diſpoſed of, or alienated, before Judiciall proceedings be made, and that the Judges of ſea Cauſes, shall by their ſentence have Condemned the ſame, Yet the Ship and all other Marchandiſes which be-found therein, and are not forbidden by this treaty, shal be free, and not de<g ref="char:EOLhyphen"/>tained, or Confiſcated, under any Pretence of Contraband goods Whatſoever, And in caſe ſome parte of the Lading only be forbidden, and Contrabande goods, the Commandor in Chife of ſuch Ship, shewing him ſelf willing, and readie, to deliver ſuch unto him, that shall have found them, shall not in ſuch caſe be forced, to Enter Into any porte, but lefte al libertie, nor ani wiſe hin<g ref="char:EOLhyphen"/>dred, in the proſecution of his Intended voyage.</p>
+            </div>
+            <div n="8" type="article">
+               <head>VIII.</head>
+               <p>It is further agreed, that all Goods belonging to ſubjects of the ſaid <hi>King,</hi> which shal be found in Ships belonging to Ennemies of the <hi>States,</hi> though other<g ref="char:EOLhyphen"/>wiſe free, shal be Confiſcable, and on the Contrary free, whatſoever shal be laden in Ships which belong unto ſubjects of the ſaid <hi>King,</hi> though the whole Lading, or any parte thereof, might belong unto th'Ennemies of the <hi>States,</hi> Contra bande goods Excepted, which being ſeiſed, shalbe proceeded aganiſt, as in th'aforegonig articles, In likemanner, what goods ſoever, belonging to the ſubjects of the <hi>States Generall,</hi> which shal be found laden in any Ship, be<g ref="char:EOLhyphen"/>longing to th'Ennemies of the ſaid <hi>King,</hi> though otherwiſe free, shal be Confiſ<g ref="char:EOLhyphen"/>cable, and on the Contrary free, whatſoever shal be laden in Ships which shall belong unto ſubjects of the <hi>States,</hi> though the whole Lading, or any parte the<g ref="char:EOLhyphen"/>reof, might belong unto th'Ennemies of the ſaid <hi>King,</hi> Contra bande goods Excepted, which being ſeiſed shal be proceeded againſt, as in th'aforegoeing articles, But to th'End, that no unexpected dammage bedone, by th'one being In peace, when th'other may be in warr, it is provided and agreed, that any Ship belonging to th'Ennemy of th'other, and laden with goods belonging to the ſubjects of th'other, the ſaid goods shall not thereby be confiſcable, in caſe they were laden, before the day, and time agreed upon, after declaring and publi<g ref="char:EOLhyphen"/>cation of ſuch war, viz if the goods were laden betweene the Soundings, and the neſs in Norway, within ſix Weekes, after ſuch declared war, from the ſaid Soundings, to the Cittie of Tanger, within two Moneths, and ten Wekes within the Mediteranean Sea, or within Eight Moneths, in all other Coaſts, and places of the Worlde, Where fore the goods, which shal be found laden in Ships belonging to th'Ennemy, and appertaining unto the ſubjects of his Ma<g ref="char:EOLhyphen"/>jeſty, shall not be forfeited, but immediatly delivered unto the owners the<g ref="char:EOLhyphen"/>reof, unleſs they were laden, after the day, and time, limitted, within the ſeverall diſtricts, aforeſaid, Yet ſo as the ſaid wares which are called Contra<g ref="char:EOLhyphen"/>bando, and for the ſaid reaſon confiſcable, shall not be transported to any porte belonging to th'Ennemy, In like manner, the goods which shalbe found laden, In Ships belonging to th'Ennemy, &amp; appertaining unto the ſubjects of the <hi>States,</hi> shall not be forfeited, but Immediatly delivered unto th'owners thereof, unleſs they were laden, after the day and time limitted, within the ſeverall diſtricks, aforeſaid, Yet ſo as the ſaid wares, which are Called Contrabando, and for the ſaid reaſon Confiſcable, shall not be transported to any porte belonging unto th'Ennemy.</p>
+            </div>
+            <div n="9" type="article">
+               <pb facs="tcp:58080:4"/>
+               <head>IX.</head>
+               <p>And to th'End that his Majeſties and the <hi>States</hi> ſubjects, may be ſecured from dammage, by Each others Ships of warr, or haveing private Commiſſions, all Commandors in chiefe, of any his Majeſties, or the <hi>States</hi> Ships of warr, as alſo all their ſubjects Haveing private Commiſſions, and ſuch as have Priveledge to Navigate to and fro, shalbe Commanded to abſtaine from doing of any damma<g ref="char:EOLhyphen"/>ge to Each other, and In caſe they do otherwiſe, they shalbe punnished, and moreover be obliged to repair the dammage, where unto their perſons, and goods, shalbe lyable.</p>
+            </div>
+            <div n="10" type="article">
+               <head>X.</head>
+               <p>Wherefore all Commanders in Chiefe, of private men of war, shall before they have their Commiſſions, give ſuffitient ſecurity, by ablemen, that are not owners, or otherwiſe Intereſſed therein, in the ſomme of fifteene hundred pounds ſterling, or Sixteene Thowſand five hundred Guildens, that they will give full ſatisfaction for any injuries, or wrongs, which that Ship may Commit in their Courſes at Sea, and for their Captaines, and Officers, which shall vio<g ref="char:EOLhyphen"/>late this preſent treatie, or any other betweene his Majeſtie and the ſaid <hi>States,</hi> under penalty, of forfeiting their ſaid Commiſſions, In which the ſaid Caution shalbe incerted as aforeſaid, And moreover it is agreed, that the Ship shalbe obliged, to ſatisfie, &amp; repaire, all ſuch injurie, and dammage, as shalbe committed.</p>
+            </div>
+            <div n="11" type="article">
+               <head>XI.</head>
+               <p>His Majeſtie, and the ſaid <hi>States,</hi> shall treate Each others ſubjects, within their reſpective territories, with the like favour, &amp; shall when any prizes are-taken, give their Commands, That Iuſtice bedone, according to the rules of Equity, &amp; Iuſtice, by Iudges unſuſpected, and unconcerned, in the matter under debate, And his ſaid Majeſtie, and the <hi>States,</hi> shall give ſtrict orders, that all decrees, Iudgments, and orders, already given, and to be given, shalbe Executed, according to the tenure of them.</p>
+            </div>
+            <div n="12" type="article">
+               <head>XII.</head>
+               <p>When the Ambaſſadours of the ſaid <hi>States Generall,</hi> or any other of their pu<g ref="char:EOLhyphen"/>blick Miniſters, reſiding at his Majeſties Court, shall make Complainte, of the Iudgements which shalbe given, his Majeſtie will cauſe a review to bemade, of the ſaid Iudgement, in his Councell, to Examine, whether the order, and pre<g ref="char:EOLhyphen"/>cautions, Contained in the preſent treatie, have bin followed and obſerved, and will alſo provide, that Everie plaintiff shal have Iuſtice done him, within the ſpace of three Moneths at the fartheſt, And when in like manner, his Majeſties Ambaſſador, or other publick Miniſter Reſiding with the <hi>States</hi> shall make Complainte of the Iudgments which shalbe given, the <hi>States Generall,</hi> shall cau<g ref="char:EOLhyphen"/>ſe A review to be made, of the ſaid Iudgment, in th'aſſembly of the <hi>States Ge<g ref="char:EOLhyphen"/>nerall,</hi> to Examine, whether the order, &amp; precautions, contained In the pre<g ref="char:EOLhyphen"/>ſent treatie, have bin followed and obſerved, nevertheleſs It shall not be law<g ref="char:EOLhyphen"/>full, either before, or after, any decree, the review Yet pendant, to unlade, or ſell, any of the goods in diſpute, Without the conſent, of parties concerned therein,</p>
+            </div>
+            <div n="13" type="article">
+               <head>XIII.</head>
+               <p>The caſe depending, betweene the takers of prizes, and the claymors, or de<g ref="char:EOLhyphen"/>fendants, if it be decreed in favour of the defendant, ſuch decrees shal have its
+<pb facs="tcp:58080:5" rendition="simple:additions"/>Execution under caution given, notwithſtanding the taker may have appealed, which rule shal not be followed when A decree is paſt againſt the defendant.</p>
+            </div>
+            <div n="14" type="article">
+               <head>XIV,</head>
+               <p>And becauſe Maſters of Marchants Ships, and their Mariners, do many times ſuffer barbarous cruelties, when in times of warr, they fall in the hands, of Ca<g ref="char:EOLhyphen"/>pers, by forceing of them to confeſſ what they Would have, It is agreed, that his Majeſtie, and the <hi>States Generall,</hi> shall ſtraightly forbid, ſuch unchriſtian like Actions, and ſuch as shalbe convinced by lawfull witneſſes, shalbe punni<g ref="char:EOLhyphen"/>shed ſeverely, in terrour to others, and all Commanders in chiefe of Ships, which shall upon due proofe have committed ſuch villanous acts, by them ſel<g ref="char:EOLhyphen"/>ves, or others, at their Inſtigation, or connive at ſuch actions, being acted, shall above the punnishint to be Inflicted, beturned out of their ſervice, and ſuch Ship as shall betaken, and brought in as prize, whereof the Maſter, or Mari<g ref="char:EOLhyphen"/>ners shall have ſuffered any torture, shall Immediatly be reſtored, and freed from any further Inquiſition, or Incumbrance whatſoever, with all her lading.</p>
+            </div>
+            <div n="15" type="article">
+               <head>XV.</head>
+               <p>It is alſo agreed, that ſevere punnishment, shall likewiſe be Inflicted, on thoſe who shall tranſgreſs againſt the 21 Article of the treatie of peace conclu<g ref="char:EOLhyphen"/>ded at Breda, by takeing of Commiſsions from An Ennemy, to rob the Ships of an allie, otherwiſe then is Expreſſed in the ſaid Article.</p>
+            </div>
+            <div n="16" type="article">
+               <head>XVI.</head>
+               <p>Laſtly it is agreed, and concluded, that this preſent treatie, and Every par<g ref="char:EOLhyphen"/>ticular clauſe therein, shalbe ratefied, and confirmed, aſſoone as poſſibly it may, and that the reſpective ratifications, shalbe Exchanged within two Moneths after the date hereof, And that the ſaid treatie, whin one Moneth after the ſaid ratification shall be Exchanged, shalbe delivered in due forme unto the Chiefe directors of th'<hi>English Companies,</hi> trading to th'Eaſt <hi>Indies</hi> and <hi>Africa,</hi> as alſo to the directors of the Eaſt, and <hi>Weſt India Companies</hi> of the <hi>Netherlands,</hi> And that his Majeſtie, and the <hi>States Generall,</hi> shall give Notice hereof, to all their re<g ref="char:EOLhyphen"/>ſpective Governors, and Commanders, of Collonies, and places, In anie parte of the Worlde, as ſoone as poſſibly it maybe, to th'End that Everie one, within the Limits of his Command, may preciſely obſerve and Execute the ſame.</p>
+               <p>In all which and Every particular therein Contained Wee the Commiſſioners on the behalf of his Majeſtie, and the <hi>States Generall</hi> beforenamed, by vertue of the power granted unto us have ſubſcribed our Names unto theſe Articles and Sealed them with our ſeales:</p>
+               <closer>
+                  <dateline>
+                     <hi>In London</hi> 
+                     <date>the firſt of <hi>December</hi> 1674.</date>
+                  </dateline>
+                  <signed>And was Signed.
+<list>
+                        <item>
+                           <hi>Th. Culpeper, (L. S.)</hi>
+                        </item>
+                        <item>G. <hi>Downing, (L. S.)</hi>
+                        </item>
+                        <item>
+                           <hi>Richard Ford. (L. S.)</hi>
+                        </item>
+                        <item>
+                           <hi>Will. Thomſon (L. S.)</hi>
+                        </item>
+                        <item>
+                           <hi>Iohn Iollif. (L. S.)</hi>
+                        </item>
+                        <item>
+                           <hi>Iohn Buckworth. (L. S.)</hi>
+                        </item>
+                        <item>
+                           <hi>(L. S.) I. Corver.</hi>
+                        </item>
+                        <item>
+                           <hi>(L. S.) G. Sautijn.</hi>
+                        </item>
+                        <item>
+                           <hi>(L. S.) Samuel Beyer.</hi>
+                        </item>
+                        <item>
+                           <hi>(L. S.) And. van Voſſen.</hi>
+                        </item>
+                        <item>
+                           <hi>(L. S.) Petrous Duvelaer.</hi>
+                        </item>
+                        <item>
+                           <hi>(L. S.) Mich. Michielſen.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <trailer>FIN.</trailer>
+            <pb facs="tcp:58080:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
